@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Melannie Núñez Cambiaso</h1>
-<h3 align="center">A passionate React Native Developer at Globant Chile</h3>
+<h1 align="left">Hi 👋, I'm Melannie Núñez Cambiaso</h1>
+<h3 align="left">A passionate React Native Developer at Globant Chile</h3>
 
 <a href="https://www.linkedin.com/in/melannie-nunez-cambiaso/">
   <img
