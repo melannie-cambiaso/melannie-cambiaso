@@ -68,4 +68,4 @@
   />
 </p>
 
-📫 You can reach me at: melannie.nunezc@gmail.com
+📫 You can reach me at: melannie.cambiaso@gmail.com
