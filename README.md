@@ -1,14 +1,9 @@
 <h1 align="left">Hi 👋, I'm Melannie Cambiaso</h1>
 <h3 align="left">A passionate React Native Developer at Perficient</h3>
 
-<a href="https://www.linkedin.com/in/melannie-nunez-cambiaso/">
+<a href="https://www.linkedin.com/in/melannie-cambiaso/">
   <img
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-<a href="https://twitter.com/hachi1612">
-  <img
-    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   />
 </a>
 
